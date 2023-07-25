@@ -9,7 +9,7 @@ assignees: ''
 
 ### 🎯 Target
 
-How is affected by this feature ?
+Who is affected by this feature ?
 
 ### 📝 Description
 
