@@ -22,7 +22,7 @@ Below is a list of our public projects, which we actively maintain:
 
 - 📊 [**redax-rs**](./README.md#work-in-progress)
 
-A Rust SDK for the Relay Data Transparency API on Ethereum.
+    A Rust SDK for the Relay Data Transparency API on Ethereum.
 
 - 🪚 [**sharder**](./README.md#work-in-progress)
 
