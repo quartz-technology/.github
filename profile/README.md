@@ -20,6 +20,10 @@ Below is a list of our public projects, which we actively maintain:
 
     A Go SDK for the Relay Data Transparency API on Ethereum.
 
+- 📊 [**redax-rs**](./README.md#work-in-progress)
+
+A Rust SDK for the Relay Data Transparency API on Ethereum.
+
 - 🪚 [**sharder**](./README.md#work-in-progress)
 
     A platform to easily use Shamir Secret Sharing for your files.
@@ -30,8 +34,3 @@ Below are the projects we are currently working on in the shadows:
 - ✍️ [**web3signer-sdk-go**](./README.md#work-in-progress)
 
     Unofficial Go SDK for the Web3Signer service.
-
-
-- 📊 [**redax-rs**](./README.md#work-in-progress)
-
-    A Rust SDK for the Relay Data Transparency API on Ethereum.
