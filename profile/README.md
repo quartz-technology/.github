@@ -20,11 +20,11 @@ Below is a list of our public projects, which we actively maintain:
 
     A Go SDK for the Relay Data Transparency API on Ethereum.
 
-- 📊 [**redax-rs**](./README.md#work-in-progress)
+- 📊 [**redax-rs**](https://github.com/quartz-technology/redax-rs)
 
     A Rust SDK for the Relay Data Transparency API on Ethereum.
 
-- 🪚 [**sharder**](./README.md#work-in-progress)
+- 🪚 [**sharder**](https://github.com/quartz-technology/sharder)
 
     A platform to easily use Shamir Secret Sharing for your files.
 
