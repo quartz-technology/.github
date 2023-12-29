@@ -11,5 +11,5 @@ open-source projects.
 | 💫 [**daggerverse**](https://github.com/quartz-technology/daggerverse)   | The collection of Dagger modules made by Quartz.                                      |   ✅    |
 | 📊 [**redax-go**](https://github.com/quartz-technology/redax-go)         | A Go SDK for the Relay Data Transparency API on Ethereum.                             |   ✅    |
 | 📊 [**redax-rs**](https://github.com/quartz-technology/redax-rs)         | A Rust SDK for the Relay Data Transparency API on Ethereum.                           |   ✅    |
-| 🔒 [**sharder**](https://github.com/quartz-technology/sharder)           | A Rust SDK for the Relay Data Transparency API on Ethereum.                           |   ✅    |
+| 🔒 [**sharder**](https://github.com/quartz-technology/sharder)           | A GUI for Shamir Secret Sharing.                                                      |   ✅    |
 | 🕵️‍♀️ [**agate**](https://github.com/quartz-technology/agate)           | An Ethereum relay data indexer.                                                       |   🟠   |
