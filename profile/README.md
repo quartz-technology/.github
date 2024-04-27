@@ -2,9 +2,7 @@
 
 ## Hello, friend 👋
 
-<p align="center">
-    <img src="../.github/assets/ILLUSTRATION.PNG" alt="">
-</p>
+![Illustration](https://github.com/quartz-technology/.github-private/assets/61348595/8e35454b-5310-411d-a119-656b05398049)
 
 Welcome to the Quartz Technology GitHub Organization, where we keep all of our projects. Feel free to take a look around and see what we're working on!
 
