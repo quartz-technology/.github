@@ -1,15 +1,91 @@
 # Quartz Technology
 
-👋 Hello, friend. Welcome to the Quartz Technology GitHub organization, where we keep all of our 
-open-source projects.
+## Hello, friend 👋
 
-## Projects
+<p align="center">
+    <img src="../.github/assets/ILLUSTRATION.PNG" alt="">
+</p>
 
-| Project                                                                  | Description                                                                           | Status |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|:------:|
-| 🦎 [**chameleon-rs**](https://github.com/quartz-technology/chameleon-rs) | Minimal prototypes on polymorphic, metamorphic and poly-metamorphic malwares in Rust. |   ✅    |
-| 💫 [**daggerverse**](https://github.com/quartz-technology/daggerverse)   | The collection of Dagger modules made by Quartz.                                      |   ✅    |
-| 📊 [**redax-go**](https://github.com/quartz-technology/redax-go)         | A Go SDK for the Relay Data Transparency API on Ethereum.                             |   ✅    |
-| 📊 [**redax-rs**](https://github.com/quartz-technology/redax-rs)         | A Rust SDK for the Relay Data Transparency API on Ethereum.                           |   ✅    |
-| 🔒 [**sharder**](https://github.com/quartz-technology/sharder)           | A GUI for Shamir Secret Sharing.                                                      |   ✅    |
-| 🕵️‍♀️ [**agate**](https://github.com/quartz-technology/agate)           | An Ethereum relay data indexer.                                                       |   ✅   |
+Welcome to the Quartz Technology GitHub Organization, where we keep all of our projects. Feel free to take a look around and see what we're working on!
+
+<details>
+    <summary>Projects</summary>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td><a href="https://https://github.com/quartz-technology/chameleon-rs">🦎 chameleon-rs</a></td>
+                <td>Minimal prototypes on polymorphic, metamorphic and poly-metamorphic malwares in Rust.</td>
+            </tr>
+            <tr>
+                <td><a href="https://https://github.com/quartz-technology/daggerverse">💫 daggerverse</a></td>
+                <td>The collection of Dagger modules made by Quartz.</td>
+            </tr>
+            <tr>
+                <td><a href="https://https://github.com/quartz-technology/redax-go">📊 redax-go</a></td>
+                <td>A Go SDK for the Relay Data Transparency API on Ethereum.</td>
+            </tr>
+            <tr>
+                <td><a href="https://https://github.com/quartz-technology/redax-rs">📊 redax-rs</a></td>
+                <td>A Rust SDK for the Relay Data Transparency API on Ethereum.</td>
+            </tr>
+            <tr>
+                <td><a href="https://https://github.com/quartz-technology/agate">🕵️‍♀️ agate</a></td>
+                <td>An Ethereum relay data indexer.</td>
+            </tr>
+        </table>
+</details>
+
+<details>
+    <summary>Hackathons</summary>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/hackathon-eth-global-scaling-ethereum-2024">🟡 ETHGlobal Scaling Ethereum 2024</a></td>
+            <td>zkora - A platform where you can write JavaScript scripts that run in a zkVM to offload on-chain Solidity computations.</td>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/hackathon-eth-global-london-2024-02">🔵 ETHGlobal London 2024 - Team 2</a></td>
+            <td>Budal - A simple budget allocating system.</td>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/hackathon-eth-global-london-2024-01">🔵 ETHGlobal London 2024 - Team 1</a></td>
+            <td>M2N - Let's you know when critical operations are performed on MetaMorpho Vaults.</td>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/hackathon-poc-x-aleph-2024">🟦 PoC x Aleph 2024</a></td>
+            <td>0xfs - A Distributed FileSystem.</td>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/hackathon-eth-global-circuit-breaker-2024">🟪 ETHGlobal Circuit Breaker 2024</a></td>
+            <td>0xShadows - An anonymous MultiSignature Wallet.</td>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/hackathon-eth-global-2023-superhack">🔴 ETHGlobal SuperHack 2023</a></td>
+            <td>RetroRed - A platform showcasing the Optimism ecosystem and contributors.</td>
+        </tr>
+    </table>
+</details>
+
+<details>
+    <summary>Misc</summary>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/playground">🏜️ Playground</a></td>
+            <td>A repository for small PoC and random test not related to anything.</td>
+        </tr>
+        <tr>
+            <td><a href="https://https://github.com/quartz-technology/quartz.technology">💎 Website</a></td>
+            <td>The quartz.technology website.</td>
+        </tr>
+    </table>
+</details>
