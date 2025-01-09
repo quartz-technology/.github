@@ -2,7 +2,7 @@
 
 ## Hello, friend 👋
 
-![GitubIllu](https://github.com/user-attachments/assets/cc6990be-af96-437f-ab58-be2487df411e)
+![GitubIllu](https://raw.githubusercontent.com/quartz-technology/.github/refs/heads/main/.github/assets/ORG_ILLUSTRATION.png.png)
 
 Welcome to the Quartz Technology GitHub Organization, where we keep all of our projects. Feel free to take a look around and see what we're working on!
 
